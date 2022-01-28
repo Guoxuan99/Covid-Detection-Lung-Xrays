@@ -6,11 +6,19 @@ For this project I used feature extraction from Transfer Learning, which I impor
 
 
 Dataset preview:
+
+
 ![Screenshot 2022-01-28 165341](https://user-images.githubusercontent.com/65883921/151517813-8dad491c-112a-4b2c-9134-2b8f56cc448a.png)
 
 Score and Graphs:
+
+
 ![Screenshot 2022-01-28 165439](https://user-images.githubusercontent.com/65883921/151517822-55078832-a55e-4b50-a66a-1cb62eb1b481.png)
+
+
 ![Screenshot 2022-01-28 165458](https://user-images.githubusercontent.com/65883921/151517826-62e8d40c-34eb-426a-a082-e820de26df88.png)
 
 Screenshot of the output using other Lung X-rays image:
+
+
 ![Screenshot 2022-01-28 165531](https://user-images.githubusercontent.com/65883921/151517827-172228b6-ce95-49e5-bdc1-efbb823affcf.png)
